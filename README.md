@@ -21,3 +21,7 @@ UNUSUAL_DEV(  0x0603, 0x8611, 0x0000, 0xffff,
 ```
 
 Then build and replace the kernel with your patched one and you're done!
+
+## Credits
+
+Thanks to [spezifisch](https://github.com/spezifisch/) for publishing his past work on the device, providing me a base for this driver. 
